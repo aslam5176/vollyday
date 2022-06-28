@@ -44,7 +44,8 @@
 ##a=family()
 ##a.mothername="Jubaitha"
 ##a.fathername="Thameen"
-####a.sonname="wasim aslam"
+##a.parents()
+##a.sonname="wasim aslam"
 ##
 ##a.parents()
 ######MULTILEVEL INHERITANCE
@@ -71,8 +72,8 @@ s1 = Son('Wasim Aslam', 'Thameen', 'Abdul Razak')
 print(s1.sonname)
 s1.print_name()
 
-             
-        
+##             
+##        
 
 
 
